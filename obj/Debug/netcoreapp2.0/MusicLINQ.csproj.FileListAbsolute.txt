@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\bin\Debug\netcoreapp2.0\MusicLINQ.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\bin\Debug\netcoreapp2.0\MusicLINQ.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\bin\Debug\netcoreapp2.0\MusicLINQ.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\bin\Debug\netcoreapp2.0\MusicLINQ.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\bin\Debug\netcoreapp2.0\MusicLINQ.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\obj\Debug\netcoreapp2.0\MusicLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\obj\Debug\netcoreapp2.0\MusicLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\obj\Debug\netcoreapp2.0\MusicLINQ.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\obj\Debug\netcoreapp2.0\MusicLINQ.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\obj\Debug\netcoreapp2.0\MusicLINQ.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\MusicLINQ\obj\Debug\netcoreapp2.0\MusicLINQ.pdb
